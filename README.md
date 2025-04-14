@@ -47,7 +47,7 @@ Map display for the provenance of material by country; a clear, user-friendly st
 ## 📷 Screenshots
 
 > ![Dashboard Preview](![image](https://github.com/user-attachments/assets/cb963965-363f-4db5-ac8b-c9b773615692)
-)
+
 
 ---
 
