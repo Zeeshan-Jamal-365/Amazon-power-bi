@@ -46,16 +46,17 @@ Map display for the provenance of material by country; a clear, user-friendly st
 
 ## 📷 Screenshots
 
-> ![Dashboard Preview](insert-screenshot-url-here)
+> ![Dashboard Preview](![image](https://github.com/user-attachments/assets/cb963965-363f-4db5-ac8b-c9b773615692)
+)
 
 ---
 
 ## 📁 Files Included
 
-- `AmazonPrimeVideoDashboard.pbix` - Power BI file
+- `Amazon_dataset.pbix` - Power BI file
 - `dashboard_screenshot.png` - Static view of the dashboard
 - `README.md` - Project summary
-
+- `summary.docx` - Summary as a document
 ---
 
 ## 📬 Contact
