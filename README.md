@@ -18,11 +18,13 @@ Give media planners and content strategists useful information.
 
 ## 📈 Key Insights
 
-The total number of titles is 9,655. The ratio of TV shows to movies is 81% TV shows to 19% movies.
-**Top Genres**: Comedy, Drama, and Suspense
-The most popular ratings are 13+, 16+, and ALL.
-**Global Reach**: High content presence from North America, India, and Europe - **Release Trend**: Significant rise in content from 2000 to 2021
-- **Time Period**: 1920–2021 is covered.
+- **Total Titles**: 9,655
+- **TV Shows vs Movies**: 81% TV Shows, 19% Movies
+- **Top Genres**: Drama, Comedy, Suspense
+- **Most Common Ratings**: 13+, 16+, ALL
+- **Release Trend**: Sharp increase in content from 2000 to 2021
+- **Global Reach**: Strong content presence from North America, India, and Europe
+- **Time Span**: Content ranges from 1920 to 2021
 
 ---
 
