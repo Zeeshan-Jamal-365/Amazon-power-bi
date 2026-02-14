@@ -64,7 +64,7 @@ Map display for the provenance of material by country; a clear, user-friendly st
 ## 📬 Contact
 
 **Zeeshan Jamal**  
-📧 Email: *[your email here]*  
+📧 Email: jamal.zeeshan1997@gmail.com  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/zeeshan-jamal-365/)  
 💻 [GitHub Profile](https://github.com/Zeeshan-Jamal-365)
 
